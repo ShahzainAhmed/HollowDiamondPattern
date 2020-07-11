@@ -1,1 +1,1 @@
-# Hollow Diamond Star
+# Hollow Diamond Star Pattern in Java.
